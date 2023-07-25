@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- I'm a C developer.  I'm learning rust and other more modern languages, but I do prefer C.
-- I'm making a programming language myself. It's called [lowfish](https://github.com/spacefishdev/lowfish)!
+- I'm an aspring 🇿🇦 South African Developer.
+- I am a low level developer (C/C++)
+- I have worked on an OS and my own Kernel.
+- I am working on a programming language called (https://github.com/spacefishdev/lowfish)[lowfish]
 
 # Heres my stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacefishdev)](https://github.com/anuraghazra/github-readme-stats)
