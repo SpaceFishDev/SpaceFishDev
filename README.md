@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I'm an aspring 🇿🇦 South African Developer.
 - I am a low level developer (C/C++)
 - I have worked on an OS and my own Kernel.
-- I am working on a programming language called (https://github.com/spacefishdev/lowfish)[lowfish]
+- I am working on a programming language called [lowfish](https://github.com/spacefishdev/lowfish)
 
 # Heres my stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacefishdev)](https://github.com/anuraghazra/github-readme-stats)
